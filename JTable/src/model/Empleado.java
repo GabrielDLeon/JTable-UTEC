@@ -1,4 +1,4 @@
-package vc1Semana2;
+package model;
 
 
 public class Empleado {

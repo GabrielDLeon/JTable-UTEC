@@ -1,9 +1,13 @@
-package vc1Semana2;
+package dao;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.LinkedList;
+
+import utils.DatabaseManager;
+
+import model.Empleado;
 
 public class DAOEmpleados {
 	
